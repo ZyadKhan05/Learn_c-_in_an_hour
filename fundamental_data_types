@@ -1,0 +1,12 @@
+    // Fundamental Data Types
+        // Type: short - Bytes: 2 - Range: -32,768 to 32,767
+        // Type: int - Byes: 4 - Range: -2B to 2B
+        // Type: long - Bytes: 4 - Range: -2B to 2B
+        // Type: long long - Bytes: 8 - Range:
+
+        // Type: float - Bytes: 4 - Range: -3.4E38 to 3.4E38
+        // Type: double - Bytes: 8 - Range: -1.7E308 to 1.7E308
+        // Type: long double - Bytes: 8 - Range: -3.4E932 to 1.7E4832
+
+        // Type: bool - Bytes: 1 - Range: true/false
+        // Type: char - Bytes: 1 - Range:
